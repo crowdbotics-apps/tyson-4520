@@ -1,0 +1,3 @@
+rootProject.name = 'tyson_4520'
+
+include ':app'
